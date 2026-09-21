@@ -54,3 +54,9 @@ cout << "c = " << c << endl;
 cout << "d = " << d << endl;
 cout << "e = " << e << endl;
 cout << "f = " << f << endl;
+
+## Example Output
+c = 24 + 96i
+d = 0 + 0i
+e = -2160 + 1152i
+f = 1 + 0i
